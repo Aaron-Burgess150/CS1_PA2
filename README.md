@@ -53,39 +53,39 @@ and T is the number of seconds AFTER the start of the simulation, that they comp
 were able to meet the employee at the counter, and the time needed to complete the order.)
 After printing the output for a test case, print the following line
 
-Sample Input:\n
-2\n
-5\n
-10 1 HUDSON 12\n
-12 6 ADAM 8\n
-13 1 MOHAMMAD 40\n
-22 6 MATTHEW 39\n
-100000 12 ANEESHA 53\n
-8\n
-100 1 AISHA 100\n
-200 2 WILLIAM 99\n
-300 3 MARIO 98\n
-400 4 ABRAHAM 97\n
-500 5 MIRAZIZ 96\n
-600 6 JACOB 95\n
-700 7 KEVIN 94\n
-800 8 JEOVANI 93\n
-
-Sample Output:\n
-HUDSON left the counter at time 150 from line 1.\n
-ADAM left the counter at time 250 from line 6.\n
-MATTHEW left the counter at time 660 from line 6.\n
-MOHAMMAD left the counter at time 1080 from line 1.\n
-ANEESHA left the counter at time 100550 from line 12.\n
-\n
-AISHA left the counter at time 1120 from line 1.\n
-JEOVANI left the counter at time 2070 from line 8.\n
-KEVIN left the counter at time 3030 from line 7.\n
-JACOB left the counter at time 4000 from line 6.\n
-MIRAZIZ left the counter at time 4980 from line 5.\n
-ABRAHAM left the counter at time 5970 from line 4.\n
-MARIO left the counter at time 6970 from line 3.\n
-WILLIAM left the counter at time 7980 from line 2.\n
+Sample Input:  
+2  
+5  
+10 1 HUDSON 12  
+12 6 ADAM 8  
+13 1 MOHAMMAD 40  
+22 6 MATTHEW 39  
+100000 12 ANEESHA 53  
+8  
+100 1 AISHA 100  
+200 2 WILLIAM 99  
+300 3 MARIO 98  
+400 4 ABRAHAM 97  
+500 5 MIRAZIZ 96  
+600 6 JACOB 95  
+700 7 KEVIN 94  
+800 8 JEOVANI 93  
+  
+Sample Output:  
+HUDSON left the counter at time 150 from line 1.  
+ADAM left the counter at time 250 from line 6.  
+MATTHEW left the counter at time 660 from line 6.  
+MOHAMMAD left the counter at time 1080 from line 1.  
+ANEESHA left the counter at time 100550 from line 12.  
+  
+AISHA left the counter at time 1120 from line 1.  
+JEOVANI left the counter at time 2070 from line 8.  
+KEVIN left the counter at time 3030 from line 7.  
+JACOB left the counter at time 4000 from line 6.  
+MIRAZIZ left the counter at time 4980 from line 5.  
+ABRAHAM left the counter at time 5970 from line 4.  
+MARIO left the counter at time 6970 from line 3.  
+WILLIAM left the counter at time 7980 from line 2.  
 
 
 Implementation Restrictions
