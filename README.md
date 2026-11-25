@@ -53,8 +53,7 @@ and T is the number of seconds AFTER the start of the simulation, that they comp
 were able to meet the employee at the counter, and the time needed to complete the order.)
 After printing the output for a test case, print the following line
 
-======
-Sample Input
+Sample Input:
 2
 5
 10 1 HUDSON 12
@@ -72,13 +71,13 @@ Sample Input
 700 7 KEVIN 94
 800 8 JEOVANI 93
 
-Sample Output
+Sample Output:
 HUDSON left the counter at time 150 from line 1.
 ADAM left the counter at time 250 from line 6.
 MATTHEW left the counter at time 660 from line 6.
 MOHAMMAD left the counter at time 1080 from line 1.
 ANEESHA left the counter at time 100550 from line 12.
-======
+
 AISHA left the counter at time 1120 from line 1.
 JEOVANI left the counter at time 2070 from line 8.
 KEVIN left the counter at time 3030 from line 7.
@@ -87,7 +86,7 @@ MIRAZIZ left the counter at time 4980 from line 5.
 ABRAHAM left the counter at time 5970 from line 4.
 MARIO left the counter at time 6970 from line 3.
 WILLIAM left the counter at time 7980 from line 2.
-======
+
 
 Implementation Restrictions
 1. You must create a struct that stores information about a customer (name, number of tickets, line
